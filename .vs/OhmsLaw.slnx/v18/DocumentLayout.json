@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|c:\\users\\arunt\\desktop\\c#\\test\\ohmslaw\\native\\create c\u002B\u002B dll using msys2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|solutionrelative:native\\create c\u002B\u002B dll using msys2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|c:\\users\\arunt\\desktop\\c#\\test\\ohmslaw\\ohmslaw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|solutionrelative:ohmslaw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|c:\\users\\arunt\\desktop\\c#\\test\\ohmslaw\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|solutionrelative:view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|c:\\users\\arunt\\desktop\\c#\\test\\ohmslaw\\viewmodel\\calculateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|solutionrelative:viewmodel\\calculateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|c:\\users\\arunt\\desktop\\c#\\test\\ohmslaw\\native\\nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|solutionrelative:native\\nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|c:\\users\\arunt\\desktop\\c#\\test\\ohmslaw\\ohmslaw.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|solutionrelative:ohmslaw.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|c:\\users\\arunt\\desktop\\c#\\test\\ohmslaw\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|c:\\users\\arunt\\desktop\\c#\\test\\ohmslaw\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|c:\\users\\arunt\\desktop\\c#\\test\\ohmslaw\\model\\calculatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|solutionrelative:model\\calculatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|c:\\users\\arunt\\desktop\\c#\\test\\ohmslaw\\command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E65566-A346-DC4D-50BB-8DD04F343BE2}|OhmsLaw.csproj|solutionrelative:command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create c\u002B\u002B dll using msys2.txt",
+              "DocumentMoniker": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\Native\\Create c\u002B\u002B dll using msys2.txt",
+              "RelativeDocumentMoniker": "Native\\Create c\u002B\u002B dll using msys2.txt",
+              "ToolTip": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\Native\\Create c\u002B\u002B dll using msys2.txt",
+              "RelativeToolTip": "Native\\Create c\u002B\u002B dll using msys2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-02T11:16:03.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NativeMethods.cs",
+              "DocumentMoniker": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\Native\\NativeMethods.cs",
+              "RelativeDocumentMoniker": "Native\\NativeMethods.cs",
+              "ToolTip": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\Native\\NativeMethods.cs",
+              "RelativeToolTip": "Native\\NativeMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T09:26:51.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\ViewModel\\CalculateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CalculateViewModel.cs",
+              "ToolTip": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\ViewModel\\CalculateViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CalculateViewModel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T08:17:30.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\View\\MainView.xaml",
+              "RelativeDocumentMoniker": "View\\MainView.xaml",
+              "ToolTip": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\View\\MainView.xaml",
+              "RelativeToolTip": "View\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-02T08:11:31.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OhmsLaw.csproj",
+              "DocumentMoniker": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\OhmsLaw.csproj",
+              "RelativeDocumentMoniker": "OhmsLaw.csproj",
+              "ToolTip": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\OhmsLaw.csproj",
+              "RelativeToolTip": "OhmsLaw.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-02T08:06:14.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T07:52:03.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-02T07:52:08.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\Command\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Command\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\Command\\RelayCommand.cs",
+              "RelativeToolTip": "Command\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T09:32:26.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OhmsLaw",
+              "DocumentMoniker": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\OhmsLaw.csproj",
+              "RelativeDocumentMoniker": "OhmsLaw.csproj",
+              "ToolTip": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\OhmsLaw.csproj",
+              "RelativeToolTip": "OhmsLaw.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-02T10:19:25.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalculateModel.cs",
+              "DocumentMoniker": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\Model\\CalculateModel.cs",
+              "RelativeDocumentMoniker": "Model\\CalculateModel.cs",
+              "ToolTip": "C:\\Users\\arunt\\Desktop\\C#\\test\\OhmsLaw\\Model\\CalculateModel.cs",
+              "RelativeToolTip": "Model\\CalculateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T08:17:48.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

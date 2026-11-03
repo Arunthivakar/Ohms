@@ -1,0 +1,105 @@
+Install msys2 - link -> https://www.msys2.org/
+
+run the below command in the msys2 terminal
+
+pacman -S --needed mingw-w64-ucrt-x86_64-gcc
+g++ --version
+
+create a CppDll folder
+now create a NativeLib.cpp file 
+
+// NativeLib.cpp
+
+extern "C" __declspec(dllexport)
+int Voltage(int current, int resistance)
+{
+    return current * resistance;
+}
+
+extern "C" __declspec(dllexport)
+int Current(int voltage, int resistance)
+{
+    return voltage / resistance;
+}
+
+extern "C" __declspec(dllexport)
+int Resistance(int voltage, int current)
+{
+    return voltage / current;
+}
+
+in terminal navigate to the created folder 
+
+cd /c/CppDll
+
+run the below command to generate dll
+g++ -shared -o NativeLib.dll NativeLib.cpp -static-libgcc -static-libstdc++
+
+
+make sure the below settings
+
+1. NativeLib.dll -> Properties -> Build Action = Content and Copy to output directory = Copy if Newer
+2. dll available in this path bin\x64\Debug\net10.0-windows\NativeLib.dll
+3. Debug configration to x64 for the wpf project and for c++ dll or x84 for c++ dll and wpf proj
+4. check the below code in .csproj file
+
+	<ItemGroup>
+		<Content Include="Native\NativeLib.dll">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<TargetPath>NativeLib.dll</TargetPath>
+		</Content>
+	</ItemGroup>
+
+
+for this project : 
+Component	  &     Configuration
+C++ compiler	    MSYS2 UCRT64 terminal
+C++ DLL	            64-bit
+C# application	    .NET 10
+WPF platform	    x64
+Communication	    P/Invoke
+
+No.	Name		Full form / Meaning
+1	MINGW64		Minimalist GNU for Windows 64-bit
+2	UCRT64		Universal C Runtime 64-bit
+3	CLANG64		Clang/LLVM compiler environment for 64-bit Windows
+4	MINGW32		Minimalist GNU for Windows 32-bit
+5	GCC			GNU Compiler Collection
+
+
+Environment		Compiler	C Runtime	Architecture
+MINGW64			GCC			MSVCRT		64-bit
+UCRT64			GCC			UCRT		64-bit
+CLANG64			Clang/LLVM	UCRT		64-bit
+MINGW32			GCC			MSVCRT		32-bit
+
+MSVCRT vs UCRT
+Feature				MSVCRT								UCRT
+Full form			Microsoft Visual C Runtime			Universal C Runtime
+Provider			Microsoft							Microsoft
+Purpose				C runtime library					Modern C runtime library
+Usage				Traditional MinGW environments		Modern Windows development
+MSYS2 environment	MINGW64							UCRT64
+
+
+C++ Source Code
+main.cpp
+	|
+GCC Compiler
+Compiles C++ code
+	|
+Runtime Library
+MSVCRT or UCRT
+	|
+Native C++ DLL
+.dll file
+	|
+C# WPF Application
+P/Invoke using DllImport
+
+GCC is a compiler; 
+MSVCRT and UCRT are runtime libraries. They are not the same thing. 
+Also, a MinGW-built DLL may require its corresponding runtime DLLs to be available on the target Windows machine.
+
+
+
